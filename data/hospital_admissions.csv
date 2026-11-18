@@ -1,0 +1,25 @@
+patient_id,admission_date,age,gender,department,diagnosis,admission_type,length_of_stay_days,insurance_provider,billed_amount,insurance_covered,patient_balance,discharge_status
+P001,2025-01-02,34,F,Cardiology,Hypertension,Emergency,4,HealthPlus,4200,3200,1000,Discharged
+P002,2025-01-04,52,M,Orthopedics,Fracture,Emergency,7,MedSure,6800,5000,1800,Discharged
+P003,2025-01-06,27,F,Maternity,Delivery,Elective,2,WellCare,3100,2500,600,Discharged
+P004,2025-01-09,61,M,General,Diabetes,Emergency,5,HealthPlus,3900,2800,1100,Discharged
+P005,2025-01-12,45,F,Neurology,Migraine,Elective,2,MedSure,2600,1900,700,Discharged
+P006,2025-01-15,73,M,Cardiology,Heart Disease,Emergency,9,WellCare,9200,7000,2200,Discharged
+P007,2025-01-18,31,F,General,Asthma,Emergency,3,HealthPlus,2800,2100,700,Discharged
+P008,2025-01-21,40,M,Orthopedics,Back Pain,Elective,3,MedSure,3400,2400,1000,Discharged
+P009,2025-02-02,29,F,Maternity,Delivery,Elective,2,WellCare,3200,2600,600,Discharged
+P010,2025-02-05,66,M,Cardiology,Hypertension,Emergency,6,HealthPlus,5600,4200,1400,Discharged
+P011,2025-02-08,55,F,Neurology,Stroke,Emergency,11,MedSure,12500,9000,3500,Discharged
+P012,2025-02-11,38,M,General,Diabetes,Elective,3,WellCare,3600,2700,900,Discharged
+P013,2025-02-14,47,F,Orthopedics,Fracture,Emergency,8,HealthPlus,7400,5600,1800,Discharged
+P014,2025-02-18,24,F,Maternity,Delivery,Elective,2,MedSure,3000,2400,600,Discharged
+P015,2025-03-01,70,M,Cardiology,Heart Disease,Emergency,10,WellCare,10800,8200,2600,Discharged
+P016,2025-03-04,43,F,General,Asthma,Emergency,4,HealthPlus,3300,2500,800,Discharged
+P017,2025-03-07,59,M,Neurology,Migraine,Elective,2,MedSure,2900,2100,800,Discharged
+P018,2025-03-10,36,F,Orthopedics,Back Pain,Elective,3,WellCare,3700,2800,900,Discharged
+P019,2025-03-13,64,M,Cardiology,Hypertension,Emergency,5,HealthPlus,5100,3800,1300,Discharged
+P020,2025-03-17,32,F,Maternity,Delivery,Elective,2,MedSure,3150,2550,600,Discharged
+P021,2025-04-02,50,M,General,Diabetes,Emergency,6,WellCare,4700,3500,1200,Discharged
+P022,2025-04-05,42,F,Neurology,Stroke,Emergency,9,HealthPlus,9800,7300,2500,Discharged
+P023,2025-04-08,68,M,Cardiology,Heart Disease,Emergency,8,MedSure,8900,6700,2200,Discharged
+P024,2025-04-12,30,F,Maternity,Delivery,Elective,2,WellCare,3050,2450,600,Discharged
