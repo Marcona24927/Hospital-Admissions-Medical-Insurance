@@ -1,0 +1,11 @@
+Admissions = DISTINCTCOUNT(hospital_admissions[patient_id])
+Total Billed = SUM(hospital_admissions[billed_amount])
+Insurance Covered = SUM(hospital_admissions[insurance_covered])
+Patient Balance = SUM(hospital_admissions[patient_balance])
+Coverage Rate = DIVIDE([Insurance Covered], [Total Billed])
+Average Length of Stay = AVERAGE(hospital_admissions[length_of_stay_days])
+Emergency Admissions = CALCULATE([Admissions], hospital_admissions[admission_type] = "Emergency")
+
+-- Suggested visuals: cards for admissions, billed, covered, balance, coverage rate and stay;
+-- admissions by month and department; billed vs covered vs patient balance by insurer.
+-- Slicers: admission_date, department, admission_type, insurance_provider, gender.
